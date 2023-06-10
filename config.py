@@ -1,0 +1,2 @@
+APP_SOLD = b'8c217664-ffbb-4ead-97f3-4841fcedab50'
+STUDENTS_COUNT = 150
